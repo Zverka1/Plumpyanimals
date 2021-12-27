@@ -302,7 +302,7 @@ body {
   width: 833px;
   color: rgba(171,209,198,1);
   position: absolute;
-  top: 2132px;
+  top: 2192px;
   left: 215px;
   font-family: Aldrich;
   font-weight: Regular;
@@ -314,7 +314,7 @@ body {
   width: 833px;
   color: rgba(171,209,198,1);
   position: absolute;
-  top: 2132px;
+  top: 2252px;
   left: 215px;
   font-family: Aldrich;
   font-weight: Regular;
@@ -326,7 +326,19 @@ body {
   width: 833px;
   color: rgba(171,209,198,1);
   position: absolute;
-  top: 2132px;
+  top: 2312px;
+  left: 215px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+}
+.Game {
+  width: 833px;
+  color: rgba(171,209,198,1);
+  position: absolute;
+  top: 2372px;
   left: 215px;
   font-family: Aldrich;
   font-weight: Regular;
