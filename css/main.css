@@ -638,6 +638,18 @@ body {
   opacity: 1;
   text-align: center;
 }
+.v150_7:hover {
+  width: 110px;
+  color: #f9bc60;
+  position: absolute;
+  top: 255px;
+  left: 215px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
 .v150_7 {
   width: 70px;
   color: rgba(255,255,255,1);
@@ -650,9 +662,33 @@ body {
   opacity: 1;
   text-align: left;
 }
+.v150_9:hover {
+  width: 110px;
+  color: #f9bc60;
+  position: absolute;
+  top: 255px;
+  left: 301px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
 .v150_9 {
   width: 110px;
   color: rgba(255,255,255,1);
+  position: absolute;
+  top: 255px;
+  left: 301px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v117_309:hover {
+  width: 64px;
+  color: #f9bc60;
   position: absolute;
   top: 255px;
   left: 301px;
@@ -751,6 +787,18 @@ body {
   top: 2460px;
   left: 89px;
   overflow: hidden;
+}
+.v155_14:hover {
+  width: 110px;
+  color: #f9bc60;
+  position: absolute;
+  top: 255px;
+  left: 435px;
+  font-family: Aldrich;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
 }
 .v155_14 {
   width: 112px;
