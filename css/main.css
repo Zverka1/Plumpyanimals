@@ -15,7 +15,7 @@ body {
   overflow: hidden;
 }
 .v189_904 {
-  width: 287px;
+  width: 230px;
   height: 100%;
   background: rgba(0,70,67,1);
   opacity: 1;
@@ -45,7 +45,7 @@ body {
   position: absolute;
   top: 82px;
   left: 215px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v39_3 {
   width: 817px;
@@ -83,7 +83,7 @@ body {
   position: absolute;
   top: 412px;
   left: 675px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v40_7 {
   width: 357px;
@@ -96,7 +96,7 @@ body {
   position: absolute;
   top: 412px;
   left: 675px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v45_25 {
   width: 357px;
